@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abtahe Alam</h1>
 <h3 align="center">💻 CSE Undergrad @KUET | 💡 Tech Explorer | 🌐 Web Developer | 📱 Android Developer | 🧠 ML & Computer Vision Enthusiast</h3>
+<br>
+<div align="center">
+  <img alt="Vibrant serious coding" height="400"width="400" src="https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif">
+</div>
 
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abtahe103&label=Profile%20views&color=0e75b6&style=flat" alt="abtahe103" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abtahe103" alt="abtahe103" /></a> </p>
@@ -18,6 +23,7 @@
 <a href="https://linkedin.com/in/abtahe-alam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abtahe-alam" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/_foxtrot_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="_foxtrot_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abtahe19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abtahe19" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@abtahe_103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abtahe_103" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
