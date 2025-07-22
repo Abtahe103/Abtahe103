@@ -31,6 +31,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abtahe103&show_icons=true&locale=en&layout=compact" alt="abtahe103" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abtahe103&show_icons=true&locale=en" alt="abtahe103" /></p>
+<p>&nbsp;<img
+  align="center"
+  src="https://github-readme-stats.vercel.app/api?username=abtahe103&show_icons=true&include_all_commits=true&count_private=true&locale=en&theme=radical&hide_border=false"
+  alt="abtahe103"
+/></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abtahe103&" alt="abtahe103" /></p>
